@@ -1,7 +1,7 @@
 import os
 import shutil
 
-os.chdir('/home/todinodev/Downloads')
+os.chdir('/your/path/to/temporary/folder')
 
 path = os.getcwd()
 
